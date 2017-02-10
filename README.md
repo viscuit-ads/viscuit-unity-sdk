@@ -23,7 +23,7 @@
 
 ## VISCUIT SDK 구성
 - viscuit_android_unity_1_1_3.unitypackage
-![build](./img/img-3.jpg)
+	![build](./img/img-3.jpg)
 	- Plugins/Android/AndroidManafest.xml (내용만 참고)
 	- Plugins/Android/google-play-services.jar (권장)
 	- Plugins/Android/viscuit_android_unity_{version}.jar (필수)
