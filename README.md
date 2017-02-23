@@ -76,9 +76,9 @@ android.permission.WRITE_EXTERNAL_STORAGE 권한을 획득하셔야 합니다.
 
 
 #### 2.2 추가한 package Name 주의사항
-> 배포된 viscuit_android_unity_1_1_3.unitypackage를 프로젝트 내에 Assets에 import 한다.
+> 추가한 package의 게임오브젝트의 이름은 ViscuitEventManager에서 변경하면 안되며, 스크립트의 이름 또한 ViscuitEventManager.cs를 유지해야한다.
 
-![build](./img/img-1.jpg)
+![build](./img/img-2.jpg)
 
 
 #### 2.3 VISCUIT 초기화
